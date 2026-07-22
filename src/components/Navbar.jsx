@@ -8,31 +8,31 @@ function Navbar() {
         </h1>
 <ul className="hidden md:flex gap-8 text-lg">
   <li>
-    <a href="#home" className="hover:text-cyan-400">
+    <a href="#home" className="hover:text-cyan-400 transition duration-300">
       Home
     </a>
   </li>
 
   <li>
-    <a href="#about" className="hover:text-cyan-400">
+    <a href="#about" className="hover:text-cyan-400 transition duration-300">
       About
     </a>
   </li>
 
   <li>
-    <a href="#skills" className="hover:text-cyan-400">
+    <a href="#skills" className="hover:text-cyan-400 transition duration-300">
       Skills
     </a>
   </li>
 
   <li>
-    <a href="#projects" className="hover:text-cyan-400">
+    <a href="#projects" className="hover:text-cyan-400 transition duration-300">
       Projects
     </a>
   </li>
 
   <li>
-    <a href="#contact" className="hover:text-cyan-400">
+    <a href="#contact" className="hover:text-cyan-400 transition duration-300">
       Contact
     </a>
   </li>
